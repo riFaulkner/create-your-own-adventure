@@ -7,3 +7,4 @@ Your best freind comes over to play a game of NCAA on your tight throwback PS3, 
 Choose [Colorado](https://youtu.be/zod-xvs6i3s?t=18s)
 
 Choose [Colorado State](https://youtu.be/nll_4V-SQaw?t=8m19s) 
+
