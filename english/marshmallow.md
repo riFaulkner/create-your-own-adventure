@@ -1,6 +1,10 @@
 This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down 
 
+[play](http://pcottle.github.io/learnGitBranching/) with the (git) branches
+
 and search for your [destiny](destiny/destiny.md).
+
+Before we begin, do you need a [warm-up?](warm-up/warm-up.md)
 
 You are are man (or woman) for all seasons but need help in choosing
 your travel destinations.. Of course we are happy to help you with these
@@ -109,6 +113,10 @@ You reach out to grab a handful of the marshmallow wall, but you can't seem to t
 You also seem to be wearing an uncomfortable and restrictive jacket made of leather...
 
 You don't own any uncomfortable and restrictive leather jackets... How did you end up sleeping in one?
+
+Suddenly, fuzzy memories of a tavern and an exotic woman...
+a house made of candy...
+closets full of umbrellas and leather.
 
 An umbrella (closed) automagically appears in your left hand. You tentatively
 
@@ -670,9 +678,8 @@ you realize that the story is about you!
 
 This false egotism makes you forget [something important.](watch-star-wars/watch-star-wars.md)
 
-<<<<<<< HEAD
 You must be lonely. [Want a friend?](robofriend/AIRobot.md)
-=======
+
 When I code over my weekend, I feel that this becomes my [whole life](code-my-life/code-my-life.md).
 
 Suddenly you feel a strong craving for [something.](craving/craving.md)
@@ -689,7 +696,6 @@ to you when you speak to it.
 ["Ahem!"](my-adventure/my-adventure.md)
 
 So the Epic Sexy Sax Guy saves the day, go [here](TheEpicSax/111_TheEpicSaxGuyArrives.md) to read more about him ...
->>>>>>> deb66146d3bd0481a4c19d27b8ef289b939d4156
 
 ["Train Ride!"] (train-ride/train-ride.md)
 
@@ -717,3 +723,11 @@ You may either do [this](gtd/gtd.md),
 [move to Boston](boston/boston.md)."
 
 play some [football](play_football/play_football.md)
+
+"Who will you [serve] (joshua_24_15/joshua_24_15.md)?" 
+
+Yourself?
+
+Instead of reading this entire story, you decide to go see the new star wars!
+
+You decide that $1.5 billion is too much to pass up, so you buy a [Powerball ticket](powerball/powerball.md).
