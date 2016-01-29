@@ -10,7 +10,11 @@
 
 Ваши действия:
 
+[Ненавижу зефир... Прочь из этой ужасной комнаты!](flowers/flowers.md)
+
 [Открыть окно](window/window.md)
+
+[Задернуть занавеску](draw-curtain/drawing-curtain.md)
 
 [Поразмышляете о причинах вашей неожиданной смерти и природе сознания.](thinking-about/thinking.md)
 
@@ -53,3 +57,5 @@
 [Почесать в подмышечной впадине.](scratch/scratch.md)
 
 [Пойду в другую комнату](next_room/next_room.md)
+
+[Поговорю с соседями](speak_to_neighbor/speak_to_neighbor.md)

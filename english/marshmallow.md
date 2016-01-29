@@ -1,5 +1,9 @@
 This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down 
 
+Talk to [neighbour](talk_to_neighbour/talk_to_neighbour.md) 
+
+Vist the master [liquid](liquid/liquid.md).
+
 [play](http://pcottle.github.io/learnGitBranching/) with the (git) branches
 
 and search for your [destiny](destiny/destiny.md).
@@ -170,6 +174,10 @@ Something lightly brushes the back of your neck, sending a chill down your spine
 
 Startled, you immediately whirl around to see who (or what) touched you...but there's no one behind you.
 
+You hear a strange noise then turn and see a large, wooden door.
+
+You knock, hear nothing and decide to [enter](./strange-room/room.md).
+
 Click [here](./sonic-screwdriver/sonic-screwdriver.md) to use your sonic screwdriver to scan the air
 for alien life forms.
 
@@ -238,6 +246,8 @@ Do you:
 [Live Tweet the situation](tweet-it/tweet-it.md)
 
 [Blackout and wake up in a strange place without knowing how](33hours/wakingup.md)
+
+Take out your [knitting project](knit/knit.md) and finish your sock heel turn.
 
 [Realize you are in the ...](in-matrix/matrix.md)
 
@@ -678,6 +688,14 @@ you realize that the story is about you!
 
 This false egotism makes you forget [something important.](watch-star-wars/watch-star-wars.md)
 
+<<<<<<< HEAD
+||||||| merged common ancestors
+<<<<<<< HEAD
+=======
+[Call a random number](call-a-random-number/answer.md)
+
+<<<<<<< HEAD
+>>>>>>> master
 You must be lonely. [Want a friend?](robofriend/AIRobot.md)
 
 When I code over my weekend, I feel that this becomes my [whole life](code-my-life/code-my-life.md).
@@ -731,3 +749,25 @@ Yourself?
 Instead of reading this entire story, you decide to go see the new star wars!
 
 You decide that $1.5 billion is too much to pass up, so you buy a [Powerball ticket](powerball/powerball.md).
+
+[Do you have my stapler?](stapler/stapler.md)
+
+[Build a car](build-a-car/build-a-car.md)
+
+What is [Bayes' theorem](BayesTheorem/BayesTheorem.md)?
+
+The divergence is coming, [survive](divergence/divergence.md) or perish? 
+
+[Hear a roaring sound in the distance](https://youtu.be/d-sALU_hveA?t=33s)
+
+You decide to work on one of your [big projects...](https://www.youtube.com/watch?v=i84PRVPieeU&t=1h34m31s)
+
+"What a joke?", he said, after looking at the [news](joke/joke.md)
+
+Hmmm....I wonder what this [fortune cookie](fortune/fortune.md) says...
+
+The [news](joke/joke.md) says it all my people!
+
+Bible says... As you sow, so shall you [reap](think/growrich.md)
+
+So shall you reap, and the [steelers](steelers/steelers.md) know that all too well!
